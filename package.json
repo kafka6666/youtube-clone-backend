@@ -1,0 +1,16 @@
+{
+  "name": "backend-final-project",
+  "version": "1.0.0",
+  "description": "a backend clone project based on youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "express"
+  ],
+  "author": "Md. Abdullahel Kafi",
+  "license": "ISC"
+}
